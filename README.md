@@ -51,4 +51,38 @@ Alternatively, each of the 5 applications can be executed from their main classe
 
 ## Overview of the Applications
 
-### Wave Generator 
+### Color RGB Space Demo 
+Class: `faifai.color.ColorSpaceDemo`
+* Interactive color viewing of RGB values
+* Named colors and their RGB values
+
+<img width="592" alt="Screenshot 2022-10-31 at 1 50 18 AM" src="https://user-images.githubusercontent.com/8808539/198893750-052be0a3-2cb9-4dfa-9656-a8e22f260dc5.png">
+
+### Color HSB Space Demo 
+Class: `faifai.color.ColorSpaceHSBDemo`
+* Interactive color viewing of HSB and RGB values
+* Named colors and their HSB values
+<img width="652" alt="Screenshot 2022-10-31 at 1 50 37 AM" src="https://user-images.githubusercontent.com/8808539/198893788-a617129c-6035-471a-af97-8d9cebfa2ba6.png">
+
+### White Plane Reflection Demo 
+Class: `faifai.color.ColorReflectionDemo2D`)
+* Light shining on a white plane (perfect reflector)
+* Interactive adjust the color of the light source
+<img width="822" alt="Screenshot 2022-10-31 at 1 50 50 AM" src="https://user-images.githubusercontent.com/8808539/198893847-454f6b0b-e5b0-4f62-bf08-c80a094918cb.png">
+
+### Color Plane Reflection Demo 
+Class: `faifai.color.ColorPlaneReflectionDemo2D`)
+* Light shining on a plane of different colors
+* Interactive adjust the color of the light source and the color of the reflecting plane
+<img width="822" alt="Screenshot 2022-10-31 at 1 51 07 AM" src="https://user-images.githubusercontent.com/8808539/198893909-497363f9-d42b-4a16-af94-3162014a8a53.png">
+
+### Mix Light Reflection Demo 
+Class: `faifai.color.ColorMixLightDemo2D`
+* Two light sources shining on a white plane (perfect reflector), mixing of two colors.
+* Interactive adjust the colors of the two light source
+<img width="822" alt="Screenshot 2022-10-31 at 1 51 18 AM" src="https://user-images.githubusercontent.com/8808539/198893974-d9c7e35f-041d-4cf8-af04-bf468974291d.png">
+
+
+
+
+
