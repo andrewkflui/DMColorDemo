@@ -1,4 +1,4 @@
-# Colors in Digital Multimedia Interactive Demo
+# Interactive Demo of Colors in Digital Multimedia 
 
 A set of Java applications each of which an interactive demonstration application about colors in digital multimedias.
 
